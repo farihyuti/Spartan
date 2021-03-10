@@ -282,4 +282,4 @@ __help__ = """
  ➩ /video <songname artist(optional)>: uploads the video song in it's best quality available
 """
 
-__mod_name__ = "⚜ SONGS ⚜"
+__mod_name__ = "music"
