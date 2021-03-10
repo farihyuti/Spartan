@@ -39,8 +39,8 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-*Hi..Welcome* 👀
-*I'm* [𝙎𝙋𝘼𝙍𝙏𝘼𝙉](https://telegra.ph/file/57705999f93eaae5cd343.jpg)
+*Hi..Welcome* 🌹
+*I'm* [𝗦𝗵𝗶𝗸𝗼](https://telegra.ph/file/4e7488d6dde4a145a9ecb.jpg)
 *I will help you to manage your groups.. Click Help button to find out more about how to use me with my full potential...*
 """
 
@@ -49,13 +49,13 @@ buttons = [[InlineKeyboardButton(text="❓ Help ❓",
 ]]
 
 buttons += [[InlineKeyboardButton(text="➕ Add Me ➕",
-                                  url="t.me/spartantg_offbot?startgroup=true"),
+                                  url="t.me/ShikoMasaibot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="💾Source Code",
-                                  url="https://github.com/jerinjohny-ktnm/Spartan"),
-             InlineKeyboardButton(text="🔱 Creator 🔱",
-                                  url="https://t.me/imjerin"),
+buttons += [[InlineKeyboardButton(text="Support Grup🎗️",
+                                  url="https://t.me/VohaUnion"),
+             InlineKeyboardButton(text="Gban Logs",
+                                  url="https://t.me/VohaLogs"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🔒 Close the Menu 🔒",
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🔒 Close the Menu 🔒",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [𝙎𝙋𝘼𝙍𝙏𝘼𝙉](https://telegra.ph/file/57705999f93eaae5cd343.jpg)
+`Hi.. I'm` [𝗦𝗵𝗶𝗸𝗼](https://telegra.ph/file/4e7488d6dde4a145a9ecb.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
