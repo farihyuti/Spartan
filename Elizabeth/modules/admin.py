@@ -547,7 +547,7 @@ Spam shield uses Combot Anti Spam, @Spamwatch API and Global bans to remove Spam
  ⚠️ Read from top
 """
 
-__mod_name__ = "⚜ ADMINS ⚜"
+__mod_name__ = "admin"
 
 PIN_HANDLER = CommandHandler("pin", pin, pass_args=True, filters=Filters.group)
 UNPIN_HANDLER = CommandHandler("unpin", unpin, filters=Filters.group)
