@@ -108,5 +108,5 @@ __help__ = """
 """
 
 
-__mod_name__ = "⚜ TTS ⚜"
+__mod_name__ = "tts"
 
